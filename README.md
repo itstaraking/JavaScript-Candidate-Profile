@@ -1,5 +1,5 @@
 # Candidate Description, with added bonus of a Javascript example :)
-While doing work with a Barber School, I noticed that they were using an outdated method (essentially, Excel, pen and paper) to house and manage their student population information. I saw that they could benefit from a a simple CRUD application that would make managing their data much more efficient. I created an Asp.Net application in Visual Studio 2017, coded in C# and connected a databse. Below is a sample of the code and functionality.  
+A webpage with some CSS, and Javascript = a great opportunity to provide snapshot of myself as a candidate. Looking forward to speaking with you!   
 
 ### Code Preview 
 
@@ -9,4 +9,4 @@ While doing work with a Barber School, I noticed that they were using an outdate
 
 ### Here is the output...
 
-![StudentDatabaseOutput](https://itstaraking.github.io/JavaScript-Candidate-Profile/javascript.mp4)
+![StudentDatabaseOutput](https://itstaraking.github.io/JavaScript-Candidate-Profile/gifjs.gif)
