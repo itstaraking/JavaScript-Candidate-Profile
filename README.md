@@ -3,10 +3,10 @@ A webpage with some CSS, and Javascript = a great opportunity to provide snapsho
 
 ### Code Preview 
 
-![StudentDatabaseCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/html.png)
-![StudentDatabaseCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/javascript.png)
-![StudentDatabaseCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/css.png)
+![CandidateProfileCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/html.png)
+![CandidateProfileCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/javascript.png)
+![CandidateProfileCode](https://itstaraking.github.io/JavaScript-Candidate-Profile/css.png)
 
 ### Here is the output...
 
-![StudentDatabaseOutput](https://itstaraking.github.io/JavaScript-Candidate-Profile/gifjs.gif)
+![CandidateProfileOutput](https://itstaraking.github.io/JavaScript-Candidate-Profile/gifjs.gif)
