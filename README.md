@@ -1,5 +1,5 @@
 # Candidate Description, with added bonus of a Javascript example :)
-A webpage with some CSS, and Javascript = a great opportunity to provide snapshot of myself as a candidate. Looking forward to speaking with you
+A webpage with some CSS, and Javascript = a great opportunity to provide snapshot of myself as a candidate. Looking forward to speaking with you!
 
 ### Code Preview 
 
